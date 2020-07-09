@@ -1,14 +1,17 @@
-### Hi there 👋
-This is Jose, I'm a software developer based in Medellin🌺 Colombia🇨🇴
-I love creating things👷, videogames🕹, cats😻, animeアニメ, food🥬🍱 and hiking🥾.
+## Hi there 👋
+This is Jose, I'm a software developer based in Colombia 🇨🇴
 
-I'm currently learning all about ✨Frontend development✨.
- 💬 Ask me about it.
+I love creating things 👷, playing videogames 🕹, cats 😻, animeアニメ, food 🥬 🍱 and hiking 🥾.
 
- - 📫 How to reach me: 
+I'm currently learning all about ✨Frontend development✨. 💬 Ask me about it.
+
+#### 📫 How to reach me:
+
   📩 joseppllo@gmail.com
-  🐦 @pingoz
-  ℹ️ in/josem-garciag
+  
+  🐦 [@pingoz](https://twitter.com/pingoz)
+  
+  ℹ️ [josem-garciag](https://www.linkedin.com/in/josem-garciag/)
 
 <!--
 **josepplloo/josepplloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
