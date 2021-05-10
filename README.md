@@ -5,7 +5,7 @@ I love creating things 👷, playing videogames 🕹, cats 😻, animeアニメ,
 
 I'm currently learning all about ✨Frontend development✨. 💬 Ask me about it.
 
-#### 📫 How to reach me:
+#### 📫 How to reach to me:
 
   📩 joseppllo@gmail.com
   
