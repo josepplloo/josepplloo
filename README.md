@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Jose, I'm a software developer based in Colombia 🇨🇴
+This is Jose, I'm a software developer based in Montreal ⚜️
 
 I love creating things 👷, playing videogames 🕹, cats 😻, animeアニメ, food 🥬 🍱 and hiking 🥾.
 
