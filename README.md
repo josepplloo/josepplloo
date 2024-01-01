@@ -3,7 +3,7 @@ This is Jose, I'm a software developer based in Montreal ⚜️
 
 I love creating things 👷, playing videogames 🕹, cats 😻, animeアニメ, food 🥬 🍱 and hiking 🥾.
 
-I'm currently learning all about ✨Frontend development✨. 💬 Ask me about it.
+I'm a seasoned ✨FullStack developer✨. 💬 Ask me about it.
 
 #### 📫 How to reach out to me:
 
