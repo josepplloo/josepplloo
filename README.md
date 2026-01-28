@@ -5,14 +5,6 @@ I love creating things 👷, playing videogames 🕹, cats 😻, animeアニメ,
 
 I'm a seasoned ✨FullStack developer✨. 💬 Ask me about it.
 
-#### 📫 How to reach out to me:
-
-  📩 joseppllo@gmail.com
-  
-  🐦 [@pingoz](https://twitter.com/pingoz)
-  
-  ℹ️ [josem-garciag](https://www.linkedin.com/in/josem-garciag/)
-
 <!--
 **josepplloo/josepplloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
